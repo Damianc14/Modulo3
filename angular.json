@@ -24,10 +24,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "M3-Angular/node_modules/bootstrap/dist/css/bootstrap.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "M3-Angular/node_modules/bootstrap/dist/js/bootstrap.esm.js"
+              "node_modules/bootstrap/dist/js/bootstrap.esm.js"
             ]
           },
           "configurations": {
